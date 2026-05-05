@@ -85,7 +85,7 @@ La aplicación se integra con la API externa [TaskDone](https://taskdone-node.on
 ### Pasos
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/[username]/diplomado-react-proyecto.git
+   git clone https://github.com/sisroberto801/diplomado-react-proyecto.git
    cd diplomado-react-proyecto
    ```
 
@@ -154,5 +154,5 @@ Proyecto educativo desarrollado como parte del Diplomado de React.
 ---
 
 **Enlaces del Proyecto:**
-- 📁 **Repositorio**: https://github.com/[username]/diplomado-react-proyecto
-- 🌐 **Aplicación en vivo**: https://[username].github.io/diplomado-react-proyecto
+- 📁 **Repositorio**: https://github.com/sisroberto801/diplomado-react-proyecto
+- 🌐 **Aplicación en vivo**: https://sisroberto801.github.io/diplomado-react-proyecto
