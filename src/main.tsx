@@ -6,6 +6,7 @@ import { AppRouter } from './routes/AppRouter.tsx';
 import { createTheme, CssBaseline, ThemeProvider } from '@mui/material';
 import { AlertProvider } from './context/alert/Alert.provider.tsx';
 import { AuthProvider } from './context/auth/Auth.provider.tsx';
+import './utils/auth.ts';
 
 const theme = createTheme({
   palette: {
