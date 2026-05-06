@@ -1,5 +1,11 @@
 # 📝 Proyecto Final: Gestión de Tareas con React
 
+## 👤 Datos del Estudiante
+**Nombre:** Roberto Carlos Olguin Ledezma  
+**Fecha:** Mayo 2026
+
+---
+
 Aplicación web de "Lista de Tareas" (To-Do List) desarrollada con React, TypeScript y Material-UI, que permite gestionar el ciclo de vida completo de tareas mediante una API REST externa.
 
 ## 🚀 Funcionalidades Implementadas
